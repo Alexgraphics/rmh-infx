@@ -1,4 +1,4 @@
-if game.Players.LocalPlayer.UserId == 696515030 then
+if game.Players.LocalPlayer.UserId == 831669 then
 print("Access Enabled")
 else
 game.Players.LocalPlayer:Kick("You're not Whitelisted! (Join dsc.gg/infinityx to buy!)")
